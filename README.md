@@ -1,2 +1,2 @@
-# my_sample_repo
+# Welcome to the event!
 Just for fun :)
